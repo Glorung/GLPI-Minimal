@@ -40,7 +40,7 @@ Fait en interne, il n'y a donc pas de budget
 
 ## Arborescence
 
-![arborescence](./img/arbprescence.png)
+![arborescence](./img/arborescence.png)
 
 ## BDD
 
