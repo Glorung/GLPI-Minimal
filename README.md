@@ -13,7 +13,7 @@ Le site en question devra avoir ces fonctionnalites:
 > - Chaque commande a un status: En cours/Recue
 > - Chaque commande a un commentaire facultatif
 > - Une commande avec le status recu rajoute les objets indique dans la liste des objets disponible
-> - Une commande est editable
+> - Une commande est editable<br>
 > Facultatif:
 > - Il est possible qu'une commande soit recu en partie
 
