@@ -33,7 +33,7 @@ Dans le cas ou un bug informatique ou un probleme est decouvert, <strong>l'admin
 
 ## Cible
 
-Personnes charge de la gestion du parc informatique au sein de/des agences actecil
+Personne(s) en charge de la gestion du parc informatique
 
 ## Budget
 
