@@ -2,36 +2,34 @@
 
 ## Objectif
 
-Developper un site interne lie au CRM permettant la gestion du parc informatique.
+Developper un site lie au CRM permettant la gestion du parc informatique.
+(Exemple https://materiel.actecil.fr)
 
-La gestion devra avoir ces fonctionnalites:
+Le site en question devra avoir ces fonctionnalites:
 
-*** Commande ***
-```
-- Une commande est une liste d'objets
+<strong>Commande</strong>
+
+> - Une commande est une liste d'objets
 - Chaque commande a un status: En cours/Recue
 - Chaque commande a un commentaire facultatif
 - Une commande avec le status recu rajoute les objets indique dans la liste des objets disponible
 - Une commande est editable
-
 Facultatif:
-
 - Il est possible qu'une commande soit recu en partie
-```
 
-*** Objet ***
-```
-- Un objet commande est un paquet contenenant plusieurs elements (Par exemple un ordinateur est une carte mere, avec de la ram, un ecran, une sacoche, un windows, un souris, clavier ...)
+<strong>Objet</strong>
+
+>- Un objet commande est un paquet contenenant plusieurs elements (Par exemple un ordinateur est une carte mere, avec de la ram, un ecran, une sacoche, un windows, un souris, clavier ...)
 - Un objet est soit en stock, soit il est liste comme appartenant a une personne
 - Un objet appartenant a une personne a une date de don ainsi qu'un etat au moment du don
 - Un objet rendu doit etre mis a jour avec un nouvel etat
 - L'action de donner/rendre un objet est suivit de la creation d'un fichier pdf definissant l'action executer
-```
 
-*** Fournisseurs ***
-```
-- Les fournisseurs sont defini par un contact (adresse, email, nom), les commandes effectue ainsi qu'un commentaire facultatif
-```
+<strong>Fournisseurs</strong>
+
+>- Les fournisseurs sont defini par un contact (adresse, email, nom), les commandes effectue ainsi qu'un commentaire facultatif
+
+Dans le cas ou un bug informatique ou un probleme est decouvert, <strong>l'administrateur a la possibilite de forcer l'ajout d'objets</strong>
 
 ## Cible
 
@@ -52,6 +50,15 @@ En cour de creation
 ## Maquette
 
 Non disponible
+
+## Techo utlise
+
+| Techno' |Version|But|
+|---|---|---|
+| Python | 3 | Langage backend
+|Django | 1.9 ou derniere version | Framework backend 
+| Html - Css | 5 - 3 | Langage structurel frontend 
+| Ajax | ? | Mise a jour du site sans rechargement de page
 
 ## Site en ligne
 
