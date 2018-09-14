@@ -10,20 +10,20 @@ Le site en question devra avoir ces fonctionnalites:
 <strong>Commande</strong>
 
 > - Une commande est une liste d'objets
-- Chaque commande a un status: En cours/Recue
-- Chaque commande a un commentaire facultatif
-- Une commande avec le status recu rajoute les objets indique dans la liste des objets disponible
-- Une commande est editable
-Facultatif:
-- Il est possible qu'une commande soit recu en partie
+> - Chaque commande a un status: En cours/Recue
+> - Chaque commande a un commentaire facultatif
+> - Une commande avec le status recu rajoute les objets indique dans la liste des objets disponible
+> - Une commande est editable
+> Facultatif:
+> - Il est possible qu'une commande soit recu en partie
 
 <strong>Objet</strong>
 
 >- Un objet commande est un paquet contenenant plusieurs elements (Par exemple un ordinateur est une carte mere, avec de la ram, un ecran, une sacoche, un windows, un souris, clavier ...)
-- Un objet est soit en stock, soit il est liste comme appartenant a une personne
-- Un objet appartenant a une personne a une date de don ainsi qu'un etat au moment du don
-- Un objet rendu doit etre mis a jour avec un nouvel etat
-- L'action de donner/rendre un objet est suivit de la creation d'un fichier pdf definissant l'action executer
+> - Un objet est soit en stock, soit il est liste comme appartenant a une personne
+> - Un objet appartenant a une personne a une date de don ainsi qu'un etat au moment du don
+> - Un objet rendu doit etre mis a jour avec un nouvel etat
+> - L'action de donner/rendre un objet est suivit de la creation d'un fichier pdf definissant l'action executer
 
 <strong>Fournisseurs</strong>
 
