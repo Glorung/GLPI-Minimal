@@ -3,7 +3,7 @@
 ## Objectif
 
 Developper un site lie au CRM permettant la gestion du parc informatique.
-(Exemple https://materiel.domain.fr)
+(Exemple https://materiel.domain.tld)
 
 Le site en question devra avoir ces fonctionnalites:
 
